@@ -10,6 +10,15 @@
 </div>
 
 ---
+👋 About Me
+
+I'm a junior developer focused on Android development with Kotlin and backend development with Spring Boot, currently studying Multiplatform Application Development (DAM) in Barcelona.
+
+I enjoy building apps with clean, modern architecture — from interactive maps with real-time cloud sync to multiplatform games — and connecting them to well-structured REST APIs and databases. I care about writing code that's organized, testable, and easy for a team to pick up.
+
+I'm currently looking for my first junior role in mobile or backend development, where I can keep growing as part of a team.
+
+---
 
 ## 🛠 Tech Stack
 

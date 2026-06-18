@@ -10,7 +10,7 @@
 </div>
 
 ---
-##👋 About Me
+## 👋 About Me
 
 I'm a junior developer focused on Android development with Kotlin and backend development with Spring Boot, currently studying Multiplatform Application Development (DAM) in Barcelona.
 

@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  📍 Barcelona, Spain &nbsp;·&nbsp; 📬 bmzasanchez@gmail.com &nbsp;·&nbsp;
+  📍 Barcelona, Spain &nbsp;·&nbsp; 📬 bmzsanchez@gmail.com &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/bianca-sánchez-zurita">LinkedIn</a>
 </div>
 

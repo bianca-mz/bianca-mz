@@ -59,15 +59,6 @@ I'm currently looking for my first junior role in mobile or backend development,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bianca-mz&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca-mz&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-</div>
-
----
-
 <div align="center">
   <i>Open to junior roles in Android and backend development 🚀</i>
 </div>

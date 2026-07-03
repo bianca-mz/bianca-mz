@@ -53,17 +53,17 @@ I'm currently looking for my first junior role in mobile or backend development,
 
 ---
 
-## 📚 Currently studying
+## 🎓 Education
 
-**Multiplatform Applications Development** @ ILERNA Barcelona · 2024–2026
+**Multiplatform Applications Development (DAM)** @ ILERNA Barcelona · 2024–2026
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bianca-mz&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca-mz&layout=compact&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bianca-mz&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca-mz&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </div>
 
 ---

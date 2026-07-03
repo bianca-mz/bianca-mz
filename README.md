@@ -44,6 +44,8 @@ I'm currently looking for my first junior role in mobile or backend development,
 
 ## 🚀 Featured Projects
 
+👉 [View my full portfolio →](https://bianca-mz.github.io/portafolio-bianca/)
+
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [📍 Geographic Markers App](https://github.com/bianca-mz/geographic-markers-app) | Android app to create and manage markers on an interactive map with image upload | Kotlin · Compose · Google Maps · Supabase |
